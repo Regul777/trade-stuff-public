@@ -7,6 +7,7 @@
 
 ## Build
 #### Go ahead and bake the cake. This step can be ignored if you're using images in the docker-compose.yml file.
+#### So easy.
 ```bash
 $ docker-compose build
 ```
