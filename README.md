@@ -3,7 +3,7 @@
 #### Why trust ourselves our money? The machines will end up ruling anyway!  
 ![](https://media1.giphy.com/media/50OuNGJcwIVXcuJURc/giphy.gif?cid=ecf05e47zl6yrmjhxbsj5kvl9208r3o0tpk5hdozk7aqe4e8&rid=giphy.gif)
 
-### You have to have docker. So if you don't have docker, do get your docker and then come back here.
+### You have to have docker. So if you don't have docker, go get your docker and then come back here.
 
 ## Build
 #### Go ahead and bake the cake. This step can be ignored if you're using images in the docker-compose.yml file.
