@@ -1,0 +1,8 @@
+FROM freqtradeorg/freqtrade:develop_pi
+
+RUN pip install plotly
+RUN pip install --upgrade cython
+
+ENTRYPOINT ["freqtrade"]
+
+CMD ["trade"]
